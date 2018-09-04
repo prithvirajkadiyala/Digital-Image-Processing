@@ -1,0 +1,37 @@
+MSE between girl2 and girl2Noise32Hi 
+
+MSE1 =
+
+  692.5050
+
+MSE between girl2 image and girl2Noise32 image 
+
+MSE2 =
+
+  744.4679
+
+Final MSE after filtering between original girl2 image and filtered girl2 image
+
+FinalMSE =
+
+  127.7481
+
+Final MSE after filtering between original girl2 and girl2Noise32Hi 
+
+FMSE1 =
+
+  398.9978
+
+Final MSE between original girl2 and girl2Noise32 
+
+FMSE2 =
+
+  550.8787
+
+ISNR before and after filtering of girl2Noise32Hi 
+ISNR1=
+    5.5136
+
+ISNR before and after filtering of girl2Noise32 
+ISNR2=
+    3.0116

@@ -1,0 +1,4 @@
+\begin{figure}[h!]
+  \caption{A picture of the universe!}
+  \includegraphics[width=0.5\textwidth]{universe}
+\end{figure}
